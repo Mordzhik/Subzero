@@ -1,0 +1,1106 @@
+fileFormatVersion: 2
+guid: 9c74815c44346433d890a29265833862
+timeCreated: 1509918389
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: subzero_0
+    21300002: subzero_1
+    21300004: subzero_2
+    21300006: subzero_3
+    21300008: subzero_4
+    21300010: subzero_5
+    21300012: subzero_6
+    21300014: subzero_7
+    21300016: subzero_8
+    21300018: subzero_9
+    21300020: subzero_10
+    21300022: subzero_11
+    21300024: subzero_12
+    21300026: subzero_13
+    21300028: subzero_14
+    21300030: subzero_15
+    21300032: subzero_16
+    21300034: subzero_17
+    21300036: subzero_18
+    21300038: subzero_19
+    21300040: subzero_20
+    21300042: subzero_21
+    21300044: subzero_22
+    21300046: subzero_23
+    21300048: subzero_24
+    21300050: subzero_25
+    21300052: subzero_26
+    21300054: subzero_27
+    21300056: subzero_28
+    21300058: subzero_29
+    21300060: subzero_30
+    21300062: subzero_31
+    21300064: subzero_32
+    21300066: subzero_33
+    21300068: subzero_34
+    21300070: subzero_35
+    21300072: subzero_36
+    21300074: subzero_37
+    21300076: subzero_38
+    21300078: subzero_39
+    21300080: subzero_40
+    21300082: subzero_41
+    21300084: subzero_42
+    21300086: subzero_43
+    21300088: subzero_44
+    21300090: subzero_45
+    21300092: subzero_46
+    21300094: subzero_47
+    21300096: subzero_48
+    21300098: subzero_49
+    21300100: subzero_50
+    21300102: subzero_51
+    21300104: subzero_52
+    21300106: subzero_53
+    21300108: subzero_54
+    21300110: subzero_55
+    21300112: subzero_56
+    21300114: subzero_57
+    21300116: subzero_58
+    21300118: subzero_59
+    21300120: subzero_60
+    21300122: subzero_61
+    21300124: subzero_62
+    21300126: subzero_63
+    21300128: subzero_64
+    21300130: subzero_65
+    21300132: subzero_66
+    21300134: subzero_67
+    21300136: subzero_68
+    21300138: subzero_69
+    21300140: subzero_70
+    21300142: subzero_71
+    21300144: subzero_72
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: subzero_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 700
+        width: 40
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 702
+        width: 40
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 700
+        width: 40
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 699
+        width: 40
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 670
+        width: 46
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 671
+        width: 51
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 683
+        width: 57
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 691
+        width: 56
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 602
+        width: 46
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 597
+        width: 51
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 606
+        width: 77
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 606
+        width: 60
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 606
+        width: 48
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 524
+        width: 55
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 525
+        width: 53
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 517
+        width: 70
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 520
+        width: 55
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 526
+        width: 49
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_18
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 516
+        width: 56
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 527
+        width: 47
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 522
+        width: 68
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_21
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 568
+        width: 32
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 434
+        width: 63
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 510
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 452
+        width: 50
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 449
+        width: 57
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 413
+        width: 60
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 418
+        width: 48
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 491
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_29
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 430
+        width: 49
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 436
+        width: 52
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_31
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 420
+        width: 52
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 423
+        width: 34
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_33
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 428
+        width: 56
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 345
+        width: 49
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 343
+        width: 75
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 341
+        width: 86
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 343
+        width: 81
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 344
+        width: 49
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_39
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 325
+        width: 67
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 275
+        width: 39
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 277
+        width: 36
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 277
+        width: 45
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 274
+        width: 39
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_44
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 271
+        width: 38
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_45
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 272
+        width: 45
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_46
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 215
+        width: 31
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_47
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 213
+        width: 31
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_48
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 210
+        width: 27
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_49
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 212
+        width: 36
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_50
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 211
+        width: 28
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 219
+        width: 36
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_52
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 220
+        width: 41
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 177
+        width: 34
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 174
+        width: 52
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_55
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 180
+        width: 34
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_56
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 187
+        width: 52
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_57
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 233
+        width: 42
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 57
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_59
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 140
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_60
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 89
+        width: 45
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 129
+        width: 40
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_62
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 129
+        width: 46
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 138
+        width: 42
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_64
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 124
+        width: 35
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_65
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 110
+        width: 36
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_66
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 112
+        width: 30
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_67
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 52
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_68
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 15
+        width: 58
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_69
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 38
+        width: 58
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_70
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 42
+        width: 54
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_71
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 41
+        width: 61
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: subzero_72
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 26
+        width: 50
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
